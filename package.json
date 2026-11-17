@@ -1,0 +1,27 @@
+{
+  "name": "alifba",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {"node": "24.x"},
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "preview": "STATIC_EXPORT=1 NEXT_PUBLIC_BASE_PATH= next build && python3 -m http.server 4173 --bind 127.0.0.1 --directory out",
+    "start": "next start",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@fontsource/fira-sans": "^5.2.0",
+    "@fontsource/ubuntu": "^5.2.0",
+    "lucide-react": "^0.577.0",
+    "next": "^16.4.6",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "typescript": "^5.9.0"
+  }
+}

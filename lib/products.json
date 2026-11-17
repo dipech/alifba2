@@ -1,0 +1,226 @@
+[
+  {
+    "id": "253709",
+    "slug": "six-of-crows",
+    "name": "Шестерка воронов",
+    "price": 42100,
+    "category": "books",
+    "image": "six-of-crows.webp"
+  },
+  {
+    "id": "40412",
+    "slug": "atomic-habits",
+    "name": "Атомные привычки. Как приобрести хорошие привычки и избавиться от плохих",
+    "price": 84300,
+    "category": "books",
+    "image": "atomic-habits.webp"
+  },
+  {
+    "id": "18888",
+    "slug": "1984",
+    "name": "1984",
+    "price": 21900,
+    "category": "books",
+    "image": "1984.webp"
+  },
+  {
+    "id": "155029",
+    "slug": "inside-a-killer",
+    "name": "Внутри убийцы",
+    "price": 82700,
+    "category": "books",
+    "image": "inside-a-killer.webp"
+  },
+  {
+    "id": "49040",
+    "slug": "little-women",
+    "name": "Маленькие женщины",
+    "price": 33900,
+    "category": "books",
+    "image": "little-women.webp"
+  },
+  {
+    "id": "22035",
+    "slug": "crime-and-punishment",
+    "name": "Преступление и наказание",
+    "price": 30000,
+    "category": "books",
+    "image": "crime-and-punishment.webp"
+  },
+  {
+    "id": "18708",
+    "slug": "great-gatsby",
+    "name": "Великий Гэтсби",
+    "price": 19600,
+    "category": "books",
+    "image": "great-gatsby.webp"
+  },
+  {
+    "id": "8518",
+    "slug": "unusual-fairy",
+    "name": "Очень необычная фея",
+    "price": 64000,
+    "category": "books",
+    "image": "unusual-fairy.webp"
+  },
+  {
+    "id": "10373",
+    "slug": "bullet-journal",
+    "name": "Блокнот в точку. Bullet Journal (ананасы), А5",
+    "price": 47900,
+    "category": "stationery",
+    "image": "bullet-journal.webp"
+  },
+  {
+    "id": "63136",
+    "slug": "memo",
+    "name": "МЕМО \"Игрушки\"",
+    "price": 19400,
+    "category": "toys",
+    "image": "memo.webp"
+  },
+  {
+    "id": "63140",
+    "slug": "dress-a-doll",
+    "name": "Одень куклу \"Профессии\"",
+    "price": 27900,
+    "category": "toys",
+    "image": "dress-a-doll.webp"
+  },
+  {
+    "id": "63144",
+    "slug": "magnetic-life",
+    "name": "Магнитная фантазия \" Как мы живём\"",
+    "price": 40500,
+    "category": "toys",
+    "image": "magnetic-life.webp"
+  },
+  {
+    "id": "63143",
+    "slug": "magnetic-home",
+    "name": "Магнитная фантазия \" Мой дом\"",
+    "price": 40500,
+    "category": "toys",
+    "image": "magnetic-home.webp"
+  },
+  {
+    "id": "57992",
+    "slug": "acrylic-white",
+    "name": "Краска акриловая художественная Акрил-Арт, \"Таир\", туба 45 мл, Белила титановые",
+    "price": 13800,
+    "category": "creative",
+    "image": "acrylic-white.webp"
+  },
+  {
+    "id": "59238",
+    "slug": "palette",
+    "name": "Палитра овальная, 15 ячеек, большая",
+    "price": 9700,
+    "category": "creative",
+    "image": "palette.webp"
+  },
+  {
+    "id": "58618",
+    "slug": "primer",
+    "name": "Грунт акриловый универсальный \"Таир\", 100 мл, Белый",
+    "price": 21500,
+    "category": "creative",
+    "image": "primer.webp"
+  },
+  {
+    "id": "59191",
+    "slug": "canvas",
+    "name": "Холст на картоне 30х30 280гр Сириус",
+    "price": 10800,
+    "category": "creative",
+    "image": "canvas.webp"
+  },
+  {
+    "id": "58856",
+    "slug": "brush",
+    "name": "Кисть из синтетики имитация белки (белка эко), \"АртАвангард\", Круглая №2",
+    "price": 9000,
+    "category": "creative",
+    "image": "brush.webp"
+  },
+  {
+    "id": "58098",
+    "slug": "acrylic-pink",
+    "name": "Краска акриловая художественная Акрил-Арт, \"Таир\", 20 мл, Розовый",
+    "price": 8800,
+    "category": "creative",
+    "image": "acrylic-pink.webp"
+  },
+  {
+    "id": "59164",
+    "slug": "decorative-wax",
+    "name": "Воск декоративный Хайлайтер, \"Таир\", 20 мл, Золото Тёмное",
+    "price": 18900,
+    "category": "creative",
+    "image": "decorative-wax.webp"
+  },
+  {
+    "id": "17243",
+    "slug": "shadow-and-bone",
+    "name": "Тень и кость",
+    "price": 72200,
+    "category": "books",
+    "image": "shadow-and-bone.webp"
+  },
+  {
+    "id": "7911",
+    "slug": "crooked-kingdom",
+    "name": "Продажное королевство",
+    "price": 35400,
+    "category": "books",
+    "image": "crooked-kingdom.webp"
+  },
+  {
+    "id": "154585",
+    "slug": "silent-patient",
+    "name": "Безмолвный пациент",
+    "price": 61600,
+    "category": "books",
+    "image": "silent-patient.webp"
+  },
+  {
+    "id": "18181",
+    "slug": "jane-eyre",
+    "name": "Джейн Эйр",
+    "price": 72200,
+    "category": "books",
+    "image": "jane-eyre.webp"
+  },
+  {
+    "id": "58215",
+    "slug": "fabric-acrylic-silver",
+    "name": "Краска акриловая по ткани и коже, \"Таир\", 50 мл, Белое серебро",
+    "price": 18200,
+    "category": "creative",
+    "image": "fabric-acrylic-silver.webp"
+  },
+  {
+    "id": "59222",
+    "slug": "tabletop-easel",
+    "name": "Мольберт настольный, деревянный (вяз) 23х28х48 см",
+    "price": 102600,
+    "category": "creative",
+    "image": "tabletop-easel.webp"
+  },
+  {
+    "id": "59018",
+    "slug": "palette-knife",
+    "name": "Мастихин, \"Хоббитания\", №9",
+    "price": 12300,
+    "category": "creative",
+    "image": "palette-knife.webp"
+  },
+  {
+    "id": "59226",
+    "slug": "acrylic-palette",
+    "name": "Палитра акриловая, прямоугольная, 20х30 см, 2 мм, JY-A06",
+    "price": 37100,
+    "category": "creative",
+    "image": "acrylic-palette.webp"
+  }
+]
