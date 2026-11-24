@@ -1,9 +1,11 @@
 'use client';
 
+import { useLocale } from './locale';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 import { useEffect, useId, useRef, useState, type ReactNode } from 'react';
 
 export function Carousel({ title, children }: { title: string; children: ReactNode }) {
+  const { t } = useLocale();
   const titleId = useId();
   const itemsId = useId();
   const rail = useRef<HTMLDivElement>(null);
@@ -44,12 +46,12 @@ export function Carousel({ title, children }: { title: string; children: ReactNo
       <h2 id={titleId}>{title}</h2>
       <div className="section-actions">
         <div className="carousel-controls">
-          <button type="button" aria-label={`${title}: назад`} aria-controls={itemsId} disabled={edges.start} onClick={() => move(-1)}><ChevronLeft size={20} /></button>
-          <button type="button" aria-label={`${title}: вперёд`} aria-controls={itemsId} disabled={edges.end} onClick={() => move(1)}><ChevronRight size={20} /></button>
+          <button type="button" aria-label={`${title}: ${t('назад')}`} aria-controls={itemsId} disabled={edges.start} onClick={() => move(-1)}><ChevronLeft size={20} /></button>
+          <button type="button" aria-label={`${title}: ${t('вперёд')}`} aria-controls={itemsId} disabled={edges.end} onClick={() => move(1)}><ChevronRight size={20} /></button>
         </div>
       </div>
     </div>
-    <div className="carousel" id={itemsId} ref={rail} tabIndex={0} aria-label={`Карточки «${title}»`}
+    <div className="carousel" id={itemsId} ref={rail} tabIndex={0} aria-label={`${t('Карточки')} «${title}»`}
       onKeyDown={event => {
         if (event.target !== event.currentTarget || !['ArrowLeft', 'ArrowRight'].includes(event.key)) return;
         event.preventDefault();

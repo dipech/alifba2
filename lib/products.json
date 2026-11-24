@@ -5,7 +5,32 @@
     "name": "Шестерка воронов",
     "price": 42100,
     "category": "books",
-    "image": "six-of-crows.webp"
+    "image": "six-of-crows.webp",
+    "description": "Каз Бреккер собирает команду из шести человек ради опасного задания, которое обещает огромную награду. У каждого участника свои цели и причины не доверять остальным. Фэнтези о сложном союзе, риске и выборе между выгодой и верностью.",
+    "characteristics": [
+      {
+        "name": "Тип",
+        "value": "Книга"
+      },
+      {
+        "name": "Автор",
+        "value": "Ли Бардуго"
+      }
+    ],
+    "en": {
+      "name": "Six of Crows",
+      "description": "Kaz Brekker brings together a crew of six for a dangerous job with an enormous reward. Each member has personal motives and reasons to distrust the others. A fantasy story about an uneasy alliance, risk, and the choice between profit and loyalty.",
+      "characteristics": [
+        {
+          "name": "Type",
+          "value": "Book"
+        },
+        {
+          "name": "Author",
+          "value": "Leigh Bardugo"
+        }
+      ]
+    }
   },
   {
     "id": "40412",
@@ -13,7 +38,40 @@
     "name": "Атомные привычки. Как приобрести хорошие привычки и избавиться от плохих",
     "price": 84300,
     "category": "books",
-    "image": "atomic-habits.webp"
+    "image": "atomic-habits.webp",
+    "description": "Джеймс Клир объясняет, как небольшие действия постепенно меняют повседневную жизнь. В книге рассматриваются формирование полезных привычек, отказ от нежелательных и организация среды, которая помогает придерживаться выбранного курса. Практические подходы можно применять в работе, учёбе и личных проектах.",
+    "characteristics": [
+      {
+        "name": "Тип",
+        "value": "Книга"
+      },
+      {
+        "name": "Тема",
+        "value": "Привычки и саморазвитие"
+      },
+      {
+        "name": "Автор",
+        "value": "Джеймс Клир"
+      }
+    ],
+    "en": {
+      "name": "Atomic Habits. An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+      "description": "James Clear explains how small actions gradually change everyday life. The book explores building useful habits, breaking unwanted ones and designing an environment that helps you stay on track. Its practical approaches can be applied to work, study and personal projects.",
+      "characteristics": [
+        {
+          "name": "Type",
+          "value": "Book"
+        },
+        {
+          "name": "Subject",
+          "value": "Habits and personal development"
+        },
+        {
+          "name": "Author",
+          "value": "James Clear"
+        }
+      ]
+    }
   },
   {
     "id": "18888",
@@ -21,7 +79,32 @@
     "name": "1984",
     "price": 21900,
     "category": "books",
-    "image": "1984.webp"
+    "image": "1984.webp",
+    "description": "Уинстон Смит живёт в обществе, где власть контролирует информацию, историю и частную жизнь. Его попытка сохранить собственные мысли становится опасным сопротивлением системе. Антиутопия о свободе, языке и праве человека на личный выбор.",
+    "characteristics": [
+      {
+        "name": "Тип",
+        "value": "Книга"
+      },
+      {
+        "name": "Автор",
+        "value": "Джордж Оруэлл"
+      }
+    ],
+    "en": {
+      "name": "1984",
+      "description": "Winston Smith lives in a society where the authorities control information, history and private life. His attempt to keep his own thoughts becomes a dangerous act of resistance. A dystopian novel about freedom, language and the right to make personal choices.",
+      "characteristics": [
+        {
+          "name": "Type",
+          "value": "Book"
+        },
+        {
+          "name": "Author",
+          "value": "George Orwell"
+        }
+      ]
+    }
   },
   {
     "id": "155029",
@@ -29,7 +112,32 @@
     "name": "Внутри убийцы",
     "price": 82700,
     "category": "books",
-    "image": "inside-a-killer.webp"
+    "image": "inside-a-killer.webp",
+    "description": "Профайлер Зои Бентли подключается к расследованию серии убийств в Чикаго. Чтобы понять преступника, ей приходится анализировать необычные детали преступлений и обращаться к собственному прошлому. Детективный триллер о поиске связей, которые не видны на первый взгляд.",
+    "characteristics": [
+      {
+        "name": "Тип",
+        "value": "Книга"
+      },
+      {
+        "name": "Автор",
+        "value": "Майк Омер"
+      }
+    ],
+    "en": {
+      "name": "A Killer’s Mind",
+      "description": "Profiler Zoe Bentley joins an investigation into a series of murders in Chicago. To understand the killer, she must examine unusual details of the crimes and confront her own past. A crime thriller about finding connections that are not immediately apparent.",
+      "characteristics": [
+        {
+          "name": "Type",
+          "value": "Book"
+        },
+        {
+          "name": "Author",
+          "value": "Mike Omer"
+        }
+      ]
+    }
   },
   {
     "id": "49040",
@@ -37,7 +145,32 @@
     "name": "Маленькие женщины",
     "price": 33900,
     "category": "books",
-    "image": "little-women.webp"
+    "image": "little-women.webp",
+    "description": "Четыре сестры Марч взрослеют, мечтают о будущем и учатся поддерживать друг друга. У каждой собственный характер и представление о счастье. Семейный роман о дружбе, первых разочарованиях, самостоятельности и близости, которая помогает пережить перемены.",
+    "characteristics": [
+      {
+        "name": "Тип",
+        "value": "Книга"
+      },
+      {
+        "name": "Автор",
+        "value": "Луиза Мэй Олкотт"
+      }
+    ],
+    "en": {
+      "name": "Little Women",
+      "description": "The four March sisters grow up, dream about the future and learn to support one another. Each has her own personality and idea of happiness. A family novel about friendship, early disappointments, independence and the closeness that helps people through change.",
+      "characteristics": [
+        {
+          "name": "Type",
+          "value": "Book"
+        },
+        {
+          "name": "Author",
+          "value": "Louisa May Alcott"
+        }
+      ]
+    }
   },
   {
     "id": "22035",
@@ -45,7 +178,32 @@
     "name": "Преступление и наказание",
     "price": 30000,
     "category": "books",
-    "image": "crime-and-punishment.webp"
+    "image": "crime-and-punishment.webp",
+    "description": "Родион Раскольников пытается оправдать преступление придуманной им теорией, но сталкивается с тяжестью собственного поступка. Действие разворачивается в Петербурге и затрагивает судьбы людей, оказавшихся в сложных обстоятельствах. Роман о совести, ответственности и возможности внутреннего изменения.",
+    "characteristics": [
+      {
+        "name": "Тип",
+        "value": "Книга"
+      },
+      {
+        "name": "Автор",
+        "value": "Фёдор Достоевский"
+      }
+    ],
+    "en": {
+      "name": "Crime and Punishment",
+      "description": "Rodion Raskolnikov tries to justify a crime through a theory of his own, but faces the weight of what he has done. Set in St Petersburg, the novel follows people living through difficult circumstances. A story about conscience, responsibility and the possibility of inner change.",
+      "characteristics": [
+        {
+          "name": "Type",
+          "value": "Book"
+        },
+        {
+          "name": "Author",
+          "value": "Fyodor Dostoevsky"
+        }
+      ]
+    }
   },
   {
     "id": "18708",
@@ -53,7 +211,32 @@
     "name": "Великий Гэтсби",
     "price": 19600,
     "category": "books",
-    "image": "great-gatsby.webp"
+    "image": "great-gatsby.webp",
+    "description": "Ник Каррауэй знакомится с загадочным Джеем Гэтсби, чьи роскошные приёмы скрывают личную мечту. За блеском богатства обнаруживаются одиночество, несбывшиеся надежды и стремление вернуть прошлое. Роман об американской мечте и цене иллюзий.",
+    "characteristics": [
+      {
+        "name": "Тип",
+        "value": "Книга"
+      },
+      {
+        "name": "Автор",
+        "value": "Фрэнсис Скотт Фицджеральд"
+      }
+    ],
+    "en": {
+      "name": "The Great Gatsby",
+      "description": "Nick Carraway meets the mysterious Jay Gatsby, whose lavish parties conceal a personal dream. Behind the glitter of wealth lie loneliness, disappointed hopes and a desire to recover the past. A novel about the American dream and the cost of illusion.",
+      "characteristics": [
+        {
+          "name": "Type",
+          "value": "Book"
+        },
+        {
+          "name": "Author",
+          "value": "F. Scott Fitzgerald"
+        }
+      ]
+    }
   },
   {
     "id": "8518",
@@ -61,7 +244,32 @@
     "name": "Очень необычная фея",
     "price": 64000,
     "category": "books",
-    "image": "unusual-fairy.webp"
+    "image": "unusual-fairy.webp",
+    "description": "Изадора Мун выросла в семье феи и вампира и сочетает черты обоих миров. Когда наступает время идти в школу, ей предстоит решить, где она почувствует себя на своём месте. История о дружбе, необычности и поиске собственного пути.",
+    "characteristics": [
+      {
+        "name": "Тип",
+        "value": "Книга"
+      },
+      {
+        "name": "Автор",
+        "value": "Гарриет Манкастер"
+      }
+    ],
+    "en": {
+      "name": "Isadora Moon Goes to School",
+      "description": "Isadora Moon has a fairy mother and a vampire father and belongs to both worlds. When it is time to go to school, she must decide where she feels at home. A story about friendship, being different and finding your own path.",
+      "characteristics": [
+        {
+          "name": "Type",
+          "value": "Book"
+        },
+        {
+          "name": "Author",
+          "value": "Harriet Muncaster"
+        }
+      ]
+    }
   },
   {
     "id": "10373",
@@ -69,7 +277,40 @@
     "name": "Блокнот в точку. Bullet Journal (ананасы), А5",
     "price": 47900,
     "category": "stationery",
-    "image": "bullet-journal.webp"
+    "image": "bullet-journal.webp",
+    "description": "Блокнот формата А5 с разметкой в точку и обложкой с ананасами. Подходит для записей, планирования и ведения Bullet Journal.",
+    "characteristics": [
+      {
+        "name": "Формат",
+        "value": "А5"
+      },
+      {
+        "name": "Разметка",
+        "value": "В точку"
+      },
+      {
+        "name": "Обложка",
+        "value": "Ананасы"
+      }
+    ],
+    "en": {
+      "name": "Pineapple Dot Grid Bullet Journal, A5",
+      "description": "An A5 notebook with a dot grid and a pineapple cover. Suitable for notes, planning and keeping a bullet journal.",
+      "characteristics": [
+        {
+          "name": "Format",
+          "value": "A5"
+        },
+        {
+          "name": "Ruling",
+          "value": "Dot grid"
+        },
+        {
+          "name": "Cover",
+          "value": "Pineapples"
+        }
+      ]
+    }
   },
   {
     "id": "63136",
@@ -77,7 +318,32 @@
     "name": "МЕМО \"Игрушки\"",
     "price": 19400,
     "category": "toys",
-    "image": "memo.webp"
+    "image": "memo.webp",
+    "description": "МЕМО «Игрушки» — игра на запоминание с темой игрушек. Можно использовать для совместных игровых занятий и тренировки внимания.",
+    "characteristics": [
+      {
+        "name": "Тип",
+        "value": "Игра МЕМО"
+      },
+      {
+        "name": "Тема",
+        "value": "Игрушки"
+      }
+    ],
+    "en": {
+      "name": "MEMO “Toys”",
+      "description": "MEMO Toys is a memory game with a toy theme. Use it for shared play and attention exercises.",
+      "characteristics": [
+        {
+          "name": "Type",
+          "value": "Memory game"
+        },
+        {
+          "name": "Theme",
+          "value": "Toys"
+        }
+      ]
+    }
   },
   {
     "id": "63140",
@@ -85,7 +351,32 @@
     "name": "Одень куклу \"Профессии\"",
     "price": 27900,
     "category": "toys",
-    "image": "dress-a-doll.webp"
+    "image": "dress-a-doll.webp",
+    "description": "Игра «Одень куклу» знакомит с темой профессий через подбор нарядов. Подходит для сюжетных игровых занятий.",
+    "characteristics": [
+      {
+        "name": "Тип",
+        "value": "Игра «Одень куклу»"
+      },
+      {
+        "name": "Тема",
+        "value": "Профессии"
+      }
+    ],
+    "en": {
+      "name": "Dress a Doll “Professions”",
+      "description": "Dress a Doll explores professions by matching outfits. Suitable for imaginative play.",
+      "characteristics": [
+        {
+          "name": "Type",
+          "value": "Dress-up game"
+        },
+        {
+          "name": "Theme",
+          "value": "Professions"
+        }
+      ]
+    }
   },
   {
     "id": "63144",
@@ -93,7 +384,32 @@
     "name": "Магнитная фантазия \" Как мы живём\"",
     "price": 40500,
     "category": "toys",
-    "image": "magnetic-life.webp"
+    "image": "magnetic-life.webp",
+    "description": "Магнитная игра на тему «Как мы живём». Предназначена для составления сцен и сюжетной игры с магнитными элементами.",
+    "characteristics": [
+      {
+        "name": "Тип",
+        "value": "Магнитная игра"
+      },
+      {
+        "name": "Тема",
+        "value": "Как мы живём"
+      }
+    ],
+    "en": {
+      "name": "Magnetic Fantasy “How We Live”",
+      "description": "A magnetic game on the theme How We Live. Designed for making scenes and imaginative play with magnetic pieces.",
+      "characteristics": [
+        {
+          "name": "Type",
+          "value": "Magnetic game"
+        },
+        {
+          "name": "Theme",
+          "value": "How We Live"
+        }
+      ]
+    }
   },
   {
     "id": "63143",
@@ -101,7 +417,32 @@
     "name": "Магнитная фантазия \" Мой дом\"",
     "price": 40500,
     "category": "toys",
-    "image": "magnetic-home.webp"
+    "image": "magnetic-home.webp",
+    "description": "Магнитная игра на тему дома. Элементы можно использовать для составления сцен и придумывания собственных историй.",
+    "characteristics": [
+      {
+        "name": "Тип",
+        "value": "Магнитная игра"
+      },
+      {
+        "name": "Тема",
+        "value": "Мой дом"
+      }
+    ],
+    "en": {
+      "name": "Magnetic Fantasy “My Home”",
+      "description": "A magnetic game about the home. Use the pieces to create scenes and tell your own stories.",
+      "characteristics": [
+        {
+          "name": "Type",
+          "value": "Magnetic game"
+        },
+        {
+          "name": "Theme",
+          "value": "My Home"
+        }
+      ]
+    }
   },
   {
     "id": "57992",
@@ -109,7 +450,48 @@
     "name": "Краска акриловая художественная Акрил-Арт, \"Таир\", туба 45 мл, Белила титановые",
     "price": 13800,
     "category": "creative",
-    "image": "acrylic-white.webp"
+    "image": "acrylic-white.webp",
+    "description": "Художественная акриловая краска «Акрил-Арт» от «Таир» в тубе 45 мл. Белила титановые можно использовать в живописи и для смешивания оттенков.",
+    "characteristics": [
+      {
+        "name": "Тип",
+        "value": "Акриловая краска"
+      },
+      {
+        "name": "Бренд",
+        "value": "Таир"
+      },
+      {
+        "name": "Объём",
+        "value": "45 мл"
+      },
+      {
+        "name": "Цвет",
+        "value": "Белила титановые"
+      }
+    ],
+    "en": {
+      "name": "Tair Acrylic Art Paint, Titanium White, 45 ml Tube",
+      "description": "Tair Acrylic Art paint in a 45 ml tube. Titanium white can be used for painting and mixing shades.",
+      "characteristics": [
+        {
+          "name": "Type",
+          "value": "Acrylic paint"
+        },
+        {
+          "name": "Brand",
+          "value": "Tair"
+        },
+        {
+          "name": "Volume",
+          "value": "45 ml"
+        },
+        {
+          "name": "Colour",
+          "value": "Titanium white"
+        }
+      ]
+    }
   },
   {
     "id": "59238",
@@ -117,7 +499,32 @@
     "name": "Палитра овальная, 15 ячеек, большая",
     "price": 9700,
     "category": "creative",
-    "image": "palette.webp"
+    "image": "palette.webp",
+    "description": "Овальная палитра с 15 ячейками для размещения красок и смешивания оттенков. Подходит для организации рабочего места художника.",
+    "characteristics": [
+      {
+        "name": "Форма",
+        "value": "Овальная"
+      },
+      {
+        "name": "Количество ячеек",
+        "value": "15"
+      }
+    ],
+    "en": {
+      "name": "Large Oval Palette, 15 Wells",
+      "description": "An oval palette with 15 wells for holding paints and mixing colours. Helps organise an artist’s workspace.",
+      "characteristics": [
+        {
+          "name": "Shape",
+          "value": "Oval"
+        },
+        {
+          "name": "Number of wells",
+          "value": "15"
+        }
+      ]
+    }
   },
   {
     "id": "58618",
@@ -125,7 +532,48 @@
     "name": "Грунт акриловый универсальный \"Таир\", 100 мл, Белый",
     "price": 21500,
     "category": "creative",
-    "image": "primer.webp"
+    "image": "primer.webp",
+    "description": "Белый универсальный акриловый грунт «Таир» объёмом 100 мл. Используется для подготовки поверхности к дальнейшей художественной работе.",
+    "characteristics": [
+      {
+        "name": "Тип",
+        "value": "Акриловый грунт"
+      },
+      {
+        "name": "Бренд",
+        "value": "Таир"
+      },
+      {
+        "name": "Объём",
+        "value": "100 мл"
+      },
+      {
+        "name": "Цвет",
+        "value": "Белый"
+      }
+    ],
+    "en": {
+      "name": "Tair Universal Acrylic Primer, White, 100 ml",
+      "description": "Tair white universal acrylic primer, 100 ml. Used to prepare a surface for further artwork.",
+      "characteristics": [
+        {
+          "name": "Type",
+          "value": "Acrylic primer"
+        },
+        {
+          "name": "Brand",
+          "value": "Tair"
+        },
+        {
+          "name": "Volume",
+          "value": "100 ml"
+        },
+        {
+          "name": "Colour",
+          "value": "White"
+        }
+      ]
+    }
   },
   {
     "id": "59191",
@@ -133,7 +581,40 @@
     "name": "Холст на картоне 30х30 280гр Сириус",
     "price": 10800,
     "category": "creative",
-    "image": "canvas.webp"
+    "image": "canvas.webp",
+    "description": "Холст на картоне «Сириус» размером 30 × 30 см. Квадратный формат удобен для небольших живописных работ и учебных этюдов.",
+    "characteristics": [
+      {
+        "name": "Основа",
+        "value": "Картон"
+      },
+      {
+        "name": "Размер",
+        "value": "30 × 30 см"
+      },
+      {
+        "name": "Бренд",
+        "value": "Сириус"
+      }
+    ],
+    "en": {
+      "name": "Sirius Canvas Board, 30 × 30 cm",
+      "description": "A Sirius canvas board measuring 30 × 30 cm. The square format is convenient for small paintings and studies.",
+      "characteristics": [
+        {
+          "name": "Support",
+          "value": "Cardboard"
+        },
+        {
+          "name": "Size",
+          "value": "30 × 30 cm"
+        },
+        {
+          "name": "Brand",
+          "value": "Sirius"
+        }
+      ]
+    }
   },
   {
     "id": "58856",
@@ -141,7 +622,48 @@
     "name": "Кисть из синтетики имитация белки (белка эко), \"АртАвангард\", Круглая №2",
     "price": 9000,
     "category": "creative",
-    "image": "brush.webp"
+    "image": "brush.webp",
+    "description": "Круглая кисть «АртАвангард» №2 с синтетическим ворсом, имитирующим белку. Небольшой размер подходит для работы с деталями.",
+    "characteristics": [
+      {
+        "name": "Бренд",
+        "value": "АртАвангард"
+      },
+      {
+        "name": "Форма",
+        "value": "Круглая"
+      },
+      {
+        "name": "Ворс",
+        "value": "Синтетика, имитация белки"
+      },
+      {
+        "name": "Номер",
+        "value": "2"
+      }
+    ],
+    "en": {
+      "name": "ArtAvangard Round Synthetic Squirrel-Effect Brush, No. 2",
+      "description": "An ArtAvangard No. 2 round brush with synthetic squirrel-effect bristles. The small size is suitable for detailed work.",
+      "characteristics": [
+        {
+          "name": "Brand",
+          "value": "ArtAvangard"
+        },
+        {
+          "name": "Shape",
+          "value": "Round"
+        },
+        {
+          "name": "Bristles",
+          "value": "Synthetic, squirrel effect"
+        },
+        {
+          "name": "Number",
+          "value": "2"
+        }
+      ]
+    }
   },
   {
     "id": "58098",
@@ -149,7 +671,48 @@
     "name": "Краска акриловая художественная Акрил-Арт, \"Таир\", 20 мл, Розовый",
     "price": 8800,
     "category": "creative",
-    "image": "acrylic-pink.webp"
+    "image": "acrylic-pink.webp",
+    "description": "Розовая художественная акриловая краска «Акрил-Арт» от «Таир». Компактный объём 20 мл подходит для небольших творческих работ.",
+    "characteristics": [
+      {
+        "name": "Тип",
+        "value": "Акриловая краска"
+      },
+      {
+        "name": "Бренд",
+        "value": "Таир"
+      },
+      {
+        "name": "Объём",
+        "value": "20 мл"
+      },
+      {
+        "name": "Цвет",
+        "value": "Розовый"
+      }
+    ],
+    "en": {
+      "name": "Tair Acrylic Art Paint, Pink, 20 ml",
+      "description": "Tair Acrylic Art paint in pink. The compact 20 ml volume is suitable for small creative projects.",
+      "characteristics": [
+        {
+          "name": "Type",
+          "value": "Acrylic paint"
+        },
+        {
+          "name": "Brand",
+          "value": "Tair"
+        },
+        {
+          "name": "Volume",
+          "value": "20 ml"
+        },
+        {
+          "name": "Colour",
+          "value": "Pink"
+        }
+      ]
+    }
   },
   {
     "id": "59164",
@@ -157,7 +720,48 @@
     "name": "Воск декоративный Хайлайтер, \"Таир\", 20 мл, Золото Тёмное",
     "price": 18900,
     "category": "creative",
-    "image": "decorative-wax.webp"
+    "image": "decorative-wax.webp",
+    "description": "Декоративный воск «Хайлайтер» от «Таир» в оттенке «Золото тёмное». Объём 20 мл предназначен для декоративных акцентов в творческих работах.",
+    "characteristics": [
+      {
+        "name": "Тип",
+        "value": "Декоративный воск"
+      },
+      {
+        "name": "Бренд",
+        "value": "Таир"
+      },
+      {
+        "name": "Объём",
+        "value": "20 мл"
+      },
+      {
+        "name": "Цвет",
+        "value": "Золото тёмное"
+      }
+    ],
+    "en": {
+      "name": "Tair Decorative Highlighter Wax, Dark Gold, 20 ml",
+      "description": "Tair Decorative Highlighter Wax in Dark Gold. The 20 ml volume is intended for decorative accents in creative projects.",
+      "characteristics": [
+        {
+          "name": "Type",
+          "value": "Decorative wax"
+        },
+        {
+          "name": "Brand",
+          "value": "Tair"
+        },
+        {
+          "name": "Volume",
+          "value": "20 ml"
+        },
+        {
+          "name": "Colour",
+          "value": "Dark gold"
+        }
+      ]
+    }
   },
   {
     "id": "17243",
@@ -165,7 +769,32 @@
     "name": "Тень и кость",
     "price": 72200,
     "category": "books",
-    "image": "shadow-and-bone.webp"
+    "image": "shadow-and-bone.webp",
+    "description": "Алина Старкова обнаруживает в себе необычный дар, который способен изменить судьбу её страны. Она оказывается среди гришей и вынуждена разобраться, кому можно доверять. Фэнтези о магии, власти и взрослении во вселенной Grishaverse.",
+    "characteristics": [
+      {
+        "name": "Тип",
+        "value": "Книга"
+      },
+      {
+        "name": "Автор",
+        "value": "Ли Бардуго"
+      }
+    ],
+    "en": {
+      "name": "Shadow and Bone",
+      "description": "Alina Starkov discovers an unusual gift that could change the fate of her country. Among the Grisha, she must work out whom she can trust. A fantasy novel about magic, power and growing up in the Grishaverse.",
+      "characteristics": [
+        {
+          "name": "Type",
+          "value": "Book"
+        },
+        {
+          "name": "Author",
+          "value": "Leigh Bardugo"
+        }
+      ]
+    }
   },
   {
     "id": "7911",
@@ -173,7 +802,32 @@
     "name": "Продажное королевство",
     "price": 35400,
     "category": "books",
-    "image": "crooked-kingdom.webp"
+    "image": "crooked-kingdom.webp",
+    "description": "Продолжение истории команды Каза Бреккера в Кеттердаме. Героям предстоит справиться с последствиями опасного дела, предательством и новыми противниками. Каждый шаг требует расчёта, а доверие внутри команды становится особенно ценным.",
+    "characteristics": [
+      {
+        "name": "Тип",
+        "value": "Книга"
+      },
+      {
+        "name": "Автор",
+        "value": "Ли Бардуго"
+      }
+    ],
+    "en": {
+      "name": "Crooked Kingdom",
+      "description": "The story of Kaz Brekker’s crew continues in Ketterdam. They must deal with the consequences of a dangerous job, betrayal and new enemies. Every move calls for careful planning, and trust within the crew becomes more valuable than ever.",
+      "characteristics": [
+        {
+          "name": "Type",
+          "value": "Book"
+        },
+        {
+          "name": "Author",
+          "value": "Leigh Bardugo"
+        }
+      ]
+    }
   },
   {
     "id": "154585",
@@ -181,7 +835,32 @@
     "name": "Безмолвный пациент",
     "price": 61600,
     "category": "books",
-    "image": "silent-patient.webp"
+    "image": "silent-patient.webp",
+    "description": "После гибели мужа художница Алисия Беренсон перестаёт говорить. Психотерапевт Тео Фабер берётся выяснить, что скрывается за её молчанием. Психологический триллер, в котором прошлое героев постепенно меняет представление о произошедшем.",
+    "characteristics": [
+      {
+        "name": "Тип",
+        "value": "Книга"
+      },
+      {
+        "name": "Автор",
+        "value": "Алекс Михаэлидес"
+      }
+    ],
+    "en": {
+      "name": "The Silent Patient",
+      "description": "After her husband’s death, artist Alicia Berenson stops speaking. Psychotherapist Theo Faber sets out to discover what lies behind her silence. A psychological thriller in which the characters’ past gradually changes the understanding of what happened.",
+      "characteristics": [
+        {
+          "name": "Type",
+          "value": "Book"
+        },
+        {
+          "name": "Author",
+          "value": "Alex Michaelides"
+        }
+      ]
+    }
   },
   {
     "id": "18181",
@@ -189,7 +868,32 @@
     "name": "Джейн Эйр",
     "price": 72200,
     "category": "books",
-    "image": "jane-eyre.webp"
+    "image": "jane-eyre.webp",
+    "description": "Джейн Эйр проходит путь от трудного детства к самостоятельной жизни и работе гувернанткой. В доме Рочестера она сталкивается с чувствами и тайнами, которые проверяют её убеждения. Роман о достоинстве, независимости и верности себе.",
+    "characteristics": [
+      {
+        "name": "Тип",
+        "value": "Книга"
+      },
+      {
+        "name": "Автор",
+        "value": "Шарлотта Бронте"
+      }
+    ],
+    "en": {
+      "name": "Jane Eyre",
+      "description": "Jane Eyre moves from a difficult childhood towards an independent life and work as a governess. In Rochester’s household, she encounters feelings and secrets that test her convictions. A novel about dignity, independence and remaining true to yourself.",
+      "characteristics": [
+        {
+          "name": "Type",
+          "value": "Book"
+        },
+        {
+          "name": "Author",
+          "value": "Charlotte Brontë"
+        }
+      ]
+    }
   },
   {
     "id": "58215",
@@ -197,7 +901,48 @@
     "name": "Краска акриловая по ткани и коже, \"Таир\", 50 мл, Белое серебро",
     "price": 18200,
     "category": "creative",
-    "image": "fabric-acrylic-silver.webp"
+    "image": "fabric-acrylic-silver.webp",
+    "description": "Акриловая краска «Таир» для работы по ткани и коже. Оттенок «Белое серебро», объём 50 мл.",
+    "characteristics": [
+      {
+        "name": "Тип",
+        "value": "Акриловая краска"
+      },
+      {
+        "name": "Назначение",
+        "value": "Ткань и кожа"
+      },
+      {
+        "name": "Объём",
+        "value": "50 мл"
+      },
+      {
+        "name": "Цвет",
+        "value": "Белое серебро"
+      }
+    ],
+    "en": {
+      "name": "Tair Fabric and Leather Acrylic Paint, White Silver, 50 ml",
+      "description": "Tair acrylic paint for fabric and leather. White Silver shade, 50 ml.",
+      "characteristics": [
+        {
+          "name": "Type",
+          "value": "Acrylic paint"
+        },
+        {
+          "name": "Intended use",
+          "value": "Fabric and leather"
+        },
+        {
+          "name": "Volume",
+          "value": "50 ml"
+        },
+        {
+          "name": "Colour",
+          "value": "White silver"
+        }
+      ]
+    }
   },
   {
     "id": "59222",
@@ -205,7 +950,40 @@
     "name": "Мольберт настольный, деревянный (вяз) 23х28х48 см",
     "price": 102600,
     "category": "creative",
-    "image": "tabletop-easel.webp"
+    "image": "tabletop-easel.webp",
+    "description": "Настольный деревянный мольберт из вяза размером 23 × 28 × 48 см. Помогает организовать место для художественных занятий на столе.",
+    "characteristics": [
+      {
+        "name": "Тип",
+        "value": "Настольный мольберт"
+      },
+      {
+        "name": "Материал",
+        "value": "Вяз"
+      },
+      {
+        "name": "Размер",
+        "value": "23 × 28 × 48 см"
+      }
+    ],
+    "en": {
+      "name": "Elm Tabletop Easel, 23 × 28 × 48 cm",
+      "description": "A wooden tabletop easel made of elm, measuring 23 × 28 × 48 cm. Helps organise a painting workspace on a table.",
+      "characteristics": [
+        {
+          "name": "Type",
+          "value": "Tabletop easel"
+        },
+        {
+          "name": "Material",
+          "value": "Elm"
+        },
+        {
+          "name": "Size",
+          "value": "23 × 28 × 48 cm"
+        }
+      ]
+    }
   },
   {
     "id": "59018",
@@ -213,7 +991,40 @@
     "name": "Мастихин, \"Хоббитания\", №9",
     "price": 12300,
     "category": "creative",
-    "image": "palette-knife.webp"
+    "image": "palette-knife.webp",
+    "description": "Мастихин «Хоббитания» №9 для художественных работ. Используется для работы с краской и создания фактурных мазков.",
+    "characteristics": [
+      {
+        "name": "Тип",
+        "value": "Мастихин"
+      },
+      {
+        "name": "Бренд",
+        "value": "Хоббитания"
+      },
+      {
+        "name": "Номер",
+        "value": "9"
+      }
+    ],
+    "en": {
+      "name": "Hobbitania Palette Knife, No. 9",
+      "description": "A Hobbitania No. 9 palette knife for artwork. Used for working with paint and creating textured strokes.",
+      "characteristics": [
+        {
+          "name": "Type",
+          "value": "Palette knife"
+        },
+        {
+          "name": "Brand",
+          "value": "Hobbitania"
+        },
+        {
+          "name": "Number",
+          "value": "9"
+        }
+      ]
+    }
   },
   {
     "id": "59226",
@@ -221,6 +1032,47 @@
     "name": "Палитра акриловая, прямоугольная, 20х30 см, 2 мм, JY-A06",
     "price": 37100,
     "category": "creative",
-    "image": "acrylic-palette.webp"
+    "image": "acrylic-palette.webp",
+    "description": "Прямоугольная акриловая палитра JY-A06 размером 20 × 30 см и толщиной 2 мм. Предназначена для размещения и смешивания красок.",
+    "characteristics": [
+      {
+        "name": "Материал",
+        "value": "Акрил"
+      },
+      {
+        "name": "Размер",
+        "value": "20 × 30 см"
+      },
+      {
+        "name": "Толщина",
+        "value": "2 мм"
+      },
+      {
+        "name": "Модель",
+        "value": "JY-A06"
+      }
+    ],
+    "en": {
+      "name": "Rectangular Acrylic Palette, 20 × 30 cm, 2 mm, JY-A06",
+      "description": "A JY-A06 rectangular acrylic palette measuring 20 × 30 cm and 2 mm thick. Designed for holding and mixing paints.",
+      "characteristics": [
+        {
+          "name": "Material",
+          "value": "Acrylic"
+        },
+        {
+          "name": "Size",
+          "value": "20 × 30 cm"
+        },
+        {
+          "name": "Thickness",
+          "value": "2 mm"
+        },
+        {
+          "name": "Model",
+          "value": "JY-A06"
+        }
+      ]
+    }
   }
 ]

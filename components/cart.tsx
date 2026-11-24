@@ -3,7 +3,8 @@
 import { createContext, useContext, useEffect, useState, type ReactNode } from 'react';
 import { Check, ShoppingBasket } from 'lucide-react';
 import Link from 'next/link';
-import { products } from '../lib/shop';
+import { useLocale } from './locale';
+import { products, localizeProduct } from '../lib/shop';
 
 const storageKey = 'alifba-cart-v1';
 const maxQuantity = 99;
@@ -64,34 +65,37 @@ export function CartProvider({ children }: { children: ReactNode }) {
 }
 
 export function useCart() {
+  const { locale } = useLocale();
   const cart = useContext(CartContext);
   if (!cart) throw new Error('CartProvider is missing');
   const lines = products.flatMap(product => {
     const quantity = cart.quantities[product.id] ?? 0;
-    return quantity ? [{ product, quantity }] : [];
+    return quantity ? [{ product: localizeProduct(product, locale), quantity }] : [];
   });
   const total = lines.reduce((sum, { product, quantity }) => sum + product.price * quantity, 0);
   return { ...cart, lines, total };
 }
 
 export function CartLink() {
+  const { t, href } = useLocale();
   const { quantities } = useCart();
   const count = Object.values(quantities).reduce((sum, quantity) => sum + quantity, 0);
-  return <Link href="/cart/" className="cart-link">
+  return <Link href={href("/cart/")} className="cart-link">
     <span className="cart-icon"><ShoppingBasket size={24} />{count > 0 && <span>{count}</span>}</span>
-    <span>Корзина</span><span className="sr-only">, товаров: {count}</span>
+    <span>{t("Корзина")}</span><span className="sr-only">, {t("товаров")}: {count}</span>
   </Link>;
 }
 
 export function AddToCart({ id, compact = false }: { id: string; compact?: boolean }) {
+  const { t } = useLocale();
   const { add, ready, quantities } = useCart();
   const quantity = quantities[id] ?? 0;
   return <div className="purchase">
     <button className={compact ? 'button button-outline' : 'button'} type="button"
       onClick={() => add(id)} disabled={!ready || quantity === maxQuantity}>
       {quantity ? <Check size={17} /> : <ShoppingBasket size={17} />}
-      {quantity === maxQuantity ? 'В корзине 99 шт.' : compact ? 'В корзину' : 'Купить на сайте'}
+      {quantity === maxQuantity ? t('В корзине 99 шт.') : compact ? t('В корзину') : t('Купить на сайте')}
     </button>
-    <span className="sr-only" role="status">{quantity > 0 && `Добавлено в корзину: ${quantity}`}</span>
+    <span className="sr-only" role="status">{quantity > 0 && `${t('Добавлено в корзину')}: ${quantity}`}</span>
   </div>;
 }
